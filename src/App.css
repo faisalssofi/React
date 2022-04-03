@@ -1,0 +1,198 @@
+
+.imageGirl{
+  position: relative;
+width: 317px;
+height: 317px;
+left: 116px;
+top: 44px;
+}
+.body{
+  position: absolute;
+  width: 317px;
+height: 399px;
+left: 116px;
+top: 361px;
+background: #F5F5F5;
+}
+
+.headerOne{
+  position: absolute;
+  top: 21px;
+  width: 178.06px;
+  left: 70px;
+  height: 25.81px;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+font-family: 'Inter';
+text-align: center;
+font-style: normal;
+color: black;
+}
+
+.headerTwo{
+  position: absolute;
+width: 178.06px;
+height: 14.19px;
+left: 70px;
+top: 53px;
+font-weight: 400;
+font-size: 12.8px;
+line-height: 15px;
+color: #F3BF99;
+font-family: 'Inter';
+text-align: center;
+font-style: normal;
+
+}
+
+.headerThree{
+  position: absolute;
+width: 228px;
+height: 16px;
+left: 45px;
+top: 76px;
+font-weight: 400;
+font-size: 10.24px;
+line-height: 150%;
+color: black;
+font-family: 'Inter';
+text-align: center;
+font-style: normal;
+
+}
+
+button{
+  display: flex;
+  flex-direction: row;
+justify-content: center;
+  padding: 9px 13px 9px 11px;
+  border-radius: 6px;
+border: 1px solid #D1D5DB;
+font-family: Inter;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: right;
+}
+
+.buttonEmail{
+position: absolute;
+width: 115px;
+height: 34px;
+left: 30px;
+top: 107px;
+background-image: url(../src/Icon.jpg);
+background-repeat: no-repeat;
+background-position: 20% center ;
+background-size: inherit;
+}
+
+.buttonLinkdin{ 
+position: absolute;
+width: 115px;
+height: 34px;
+left: 162px;
+top: 107px;
+background: #5093E2;
+background-image: url(../src/l.jpg);
+background-repeat: no-repeat;
+background-size: 16px 16px;
+background-position: 15% center ;
+}
+.bodyOne{
+  position: absolute;
+  width: 242.71px;
+  height: 21px;
+  left: 35px;
+  top: 174px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 150%;
+}
+.bodyTwo{
+  position: absolute;
+width: 247px;
+height: 61px;
+left: 35px;
+top: 200px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10.24px;
+line-height: 150%;
+}
+.bodyThree{
+  position: absolute;
+width: 242.71px;
+height: 21px;
+left: 35px;
+top: 288px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 150%;
+}
+.bodyFour{
+  position: absolute;
+width: 247px;
+height: 61px;
+left: 35px;
+top: 314px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10.24px;
+line-height: 150%;
+}
+
+.footer{
+position: absolute;
+width: 317px;
+height: 64px;
+left: 116px;
+top: 760px;
+background: #D5D4D8;
+border-radius: 0px 0px 10px 10px;
+}
+
+.twitter{
+  position: absolute;
+  height: 25.000001907348633px;
+  width: 25.000001907348633px;
+  left: 73px;
+  top: 19.5px;
+  border-radius: 0px;
+background: #918E9B;
+}
+
+.faceBook{
+  position: absolute;
+  height: 25.000001907348633px;
+  width: 25.000001907348633px;
+  left: 122px;
+  top: 19.5px;
+  border-radius: 0px;
+  background: #918E9B;
+}
+.insta{
+  position: absolute;
+  height: 25.000001907348633px;
+  width: 25.000001907348633px;
+  left: 171px;
+  top: 19.5px;
+  border-radius: 0px;
+  background: #918E9B;
+}
+.git{
+  position: absolute;
+  height: 25.000001907348633px;
+  width: 25.000001907348633px;
+  left: 220px;
+  top: 19.5px;
+  border-radius: 0px;
+  background: #918E9B;
+}
